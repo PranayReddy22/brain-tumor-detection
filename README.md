@@ -65,7 +65,7 @@ Enhancements used:
 
 ## 🩺 Clinical Relevance
 
-Accurate classification of brain tumors via MRI imaging is essential for early intervention and treatment planning. The results from this project indicate that deep learning—especially transfer learning with modern architectures—can assist radiologists by providing a second opinion or preliminary classification tool.
+Accurate classification of brain tumors via MRI imaging is essential for early intervention and treatment planning. The results from this project indicate that deep learning, especially transfer learning with modern architectures, can assist radiologists by providing a second opinion or preliminary classification tool.
 
 ---
 
